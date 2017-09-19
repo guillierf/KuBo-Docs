@@ -2,7 +2,7 @@
 
 ## Important Note:
 To download the files (pdf, doc and ppt), it is recommended to perform a 
-git clone of this repository
+"git clone" of this repository.
 
 ##
 

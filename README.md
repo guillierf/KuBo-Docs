@@ -1,5 +1,10 @@
 # KuBo-Docs
 
+## Important Note:
+To download the files (pdf, doc and ppt), it is recommended to perform a 
+git clone of this repository
+
+
 **This repository contains guides designed to help with installing and using KuBo in a lab environment.**
 
 Lab_Install_Guide: pdf and doc
